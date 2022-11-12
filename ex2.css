@@ -1,0 +1,29 @@
+header{
+	height:60px;
+	background-color:#a682bd;}
+#inceput{
+margin-left:10px;}
+body{
+	padding:10px;
+	margin:0;
+	font-family:Open Sans; }
+#pasiuni{
+border-style:dashed;
+width:50px;}
+#NumePrenume{
+	font weight:200;}
+table, td{
+	border: 1px solid;
+	padding:10px;
+	border-collapse:collapse;}
+#pozadeprofil{
+	border-radius:30px;
+	padding:20px;
+	position:absolute;
+	top:80px;
+	right:200px;
+	opacity:0.9;
+}
+footer{
+	
+	background-color:#240936;}
